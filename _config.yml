@@ -10,9 +10,9 @@ subnav:
   #weibo: "#"
   rss: "http://feeds.feedburner.com/WesHome"
   #zhihu: "#"
-  #douban: "#"
   #mail: "#"
   #facebook: "#"
+  #douban: "#"
   #google: "#"
   twitter: "http://twitter.com/_0dc/"
   #linkedin: "#"
@@ -42,14 +42,15 @@ open_in_new: false
 
 # Miscellaneous
 google_analytics: ''
+baidu_analytics: false
 favicon: /favicon.png
 
 #你的头像url
 avatar: http://s.gravatar.com/avatar/00ced3a6cdfd0398fabe0717147a6a32?s=200
 #是否开启分享
-share_jia: true
-share_addthis: false
-#是否开启多说评论，填写你在多说申请的项目名称 duoshuo: duoshuo-key
+share: false
+
+#是否开启多说评论，填写你在多说申请的项目名称 duoshuo: duoshuo-key（http://duoshuo-key.duoshuo.com/）
 #若使用disqus，请在博客config文件中填写disqus_shortname，并关闭多说评论
 duoshuo: false
 
