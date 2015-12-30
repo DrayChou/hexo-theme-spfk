@@ -43,7 +43,7 @@ open_in_new: false
 # Miscellaneous
 google_analytics: ''
 baidu_analytics: false
-favicon: /favicon.png
+favicon: /favicon.ico
 
 #你的头像url
 avatar: http://s.gravatar.com/avatar/00ced3a6cdfd0398fabe0717147a6a32?s=200
